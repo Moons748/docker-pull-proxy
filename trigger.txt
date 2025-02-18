@@ -1,1 +1,1 @@
-ollama/ollama:0.5.11 crpi-o93jq19tmw66tcfp.cn-shanghai.personal.cr.aliyuncs.com/my_docker_13/ollama:0.5.11
+ghcr.io/open-webui/open-webui:main crpi-o93jq19tmw66tcfp.cn-shanghai.personal.cr.aliyuncs.com/my_docker_13/open-webui:main
